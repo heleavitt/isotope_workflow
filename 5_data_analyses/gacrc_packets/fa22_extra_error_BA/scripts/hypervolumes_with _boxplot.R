@@ -2,7 +2,7 @@
 # ----------------------------------
 # User-defined settings
 # Specify multiple species to combine in each hypervolume
-species_vec <- c("pensets","calsap","palsp")  # example species codes
+species_vec <- c("pensets","calsap","palsp","minlon","ctebol")  # example species codes
 buffers_vec <- c(20, 30, 50, 70, 100, 150)            # buffer radii (m)
 
 # Base directories
